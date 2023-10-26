@@ -1,0 +1,11 @@
+sort1 uses: selective search
+
+How do you know?: most slow always O(n2)
+
+sort2 uses: merge search
+
+How do you know?: most fast but user more memory
+
+sort3 uses: bubble search
+
+How do you know?: worst O(n2) best O(n)
